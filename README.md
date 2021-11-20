@@ -1,1 +1,1 @@
-![image](https://github.com/TyrannosaurusRoot/TyrannosaurusRoot/blob/master/tyr.gif)
+![image](https://github.com/TyrannosaurusRoot/TyrannosaurusRoot/blob/main/tyr.gif)
